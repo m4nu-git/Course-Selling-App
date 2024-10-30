@@ -1,4 +1,4 @@
-##  Create a course selling App
+##  Create a Course Selling App
 
 
 - Initialize a new Node.js project
